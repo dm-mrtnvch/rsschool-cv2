@@ -1,0 +1,8 @@
+- Dmitry Martynovich
+- none contact info
+- I LIKE TO STUDY
+- JS, TYPESCRIPT
+- const sum = (a, b) => a + b
+- none exp
+- no education
+- B1 english
