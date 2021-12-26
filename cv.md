@@ -6,4 +6,4 @@
 - none exp
 - no education
 - B1 english
-- some changes
+- some 
