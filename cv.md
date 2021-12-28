@@ -3,9 +3,11 @@ Dmitry Martynovich
 
 ![](https://www.meme-arsenal.com/memes/3a7046f2872cd1243da63ef9b218fa3a.jpg)
 -------------------     ----------------------------
-email:                        wazz@bk.ru
-address:                      Belarus, Minsk
-mobile:                       +375 29 235 2345
+Address
+--------------------
+email: wazz@bk.ru
+location: Belarus, Minsk
+mobile: +375 29 235 2345
 -------------------     ----------------------------
 
 About me
