@@ -5,9 +5,9 @@ Dmitry Martynovich
 -------------------     ----------------------------
 Address
 --------------------
-email: wazz@bk.ru
-location: Belarus, Minsk
-mobile: +375 29 235 2345
+- **email: wazz@bk.ru**
+- **location: Belarus, Minsk**
+- **mobile: +375 29 235 2345**
 -------------------     ----------------------------
 
 About me
